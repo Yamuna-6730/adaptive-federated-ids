@@ -1,0 +1,12 @@
+cyberenv/
+__pycache__/
+.ipynb_checkpoints/
+BeforeAI.csv
+AfterAI.csv
+*.pkl
+*.keras
+*.h5
+
+.env
+
+results/temp/
